@@ -764,6 +764,7 @@
   font-style: italic;
   font-weight: 500;
   margin-top:20px;
+ margin-left:20px;
 }
 
 
@@ -783,6 +784,8 @@
   color: grey;
   font-size: 14px;
   line-height: 23px;
+ margin-left:20px;
+text-align:left;
 }
 
 
@@ -862,12 +865,16 @@
   font-size: 22px;
   margin: auto auto 10px;
   color:#838383;
+	 margin-left:20px;
+text-align:left;
 }
 
 .abt_desi_inr p{
   color: #7d7d7d;
   font-size: 13px;
   line-height: 23px;
+	 margin-left:20px;
+text-align:left;
 }
 
 .abt_desi h2{
@@ -883,4 +890,6 @@
   font-style: italic;
   font-weight: 500;
   margin-top:10px;
+	 margin-left:20px;
+text-align:left;
 }
