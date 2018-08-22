@@ -321,14 +321,14 @@
 
   #home {
     background: url( ../new-images/amitynoida.jpg) no-repeat center center;  <!--backgroundimage-->
-    background-size: cover;
+    <!--background-size: cover;-->
     vertical-align: middle;
     display: flex;
     align-items: center;
     min-height: 100vh;
     position: relative;
     overflow: hidden;
-    padding-top: 10em;
+   <!-- padding-top: 10em;-->
     text-align: center;
   }
 
