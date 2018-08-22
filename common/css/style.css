@@ -220,7 +220,7 @@
   }
 
   .custom-navbar .navbar-brand {
-    color: #000000;
+    color: #ffffff;
     font-size: 25px;
     font-weight: 500;
     letter-spacing: -1px;
@@ -228,7 +228,7 @@
   }
 
   .top-nav-collapse {
-    background: #000000;
+    background: #ffffff;
   }
 
   .custom-navbar .nav .section-btn a:hover {
@@ -764,7 +764,6 @@
   font-style: italic;
   font-weight: 500;
   margin-top:20px;
- margin-left:20px;
 }
 
 
@@ -784,8 +783,6 @@
   color: grey;
   font-size: 14px;
   line-height: 23px;
- margin-left:20px;
-text-align:left;
 }
 
 
@@ -865,16 +862,12 @@ text-align:left;
   font-size: 22px;
   margin: auto auto 10px;
   color:#838383;
-	 margin-left:20px;
-text-align:left;
 }
 
 .abt_desi_inr p{
   color: #7d7d7d;
   font-size: 13px;
   line-height: 23px;
-	 margin-left:20px;
-text-align:left;
 }
 
 .abt_desi h2{
@@ -890,6 +883,4 @@ text-align:left;
   font-style: italic;
   font-weight: 500;
   margin-top:10px;
-	 margin-left:20px;
-text-align:left;
 }
